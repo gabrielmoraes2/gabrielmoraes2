@@ -23,9 +23,9 @@
 <div align="center">
 <h3> GitHub status :computer:</h3>
 <br>
-<a href="https://github.com/henriqueburgos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueburgos&show_icons=true&theme=merko&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueburgos&layout=compact&langs_count=7&theme=merko"/>
+<a href="https://github.com/gabrielmoraes2">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoraes2&show_icons=true&theme=merko&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoraes2&layout=compact&langs_count=7&theme=merko"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,4 +33,4 @@
 
 </div>
 
-<img src="https://github.com/henriqueburgos/gabrielmoraes2/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://github.com/gabrielmoraes2/gabrielmoraes2/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
