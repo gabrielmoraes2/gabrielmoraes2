@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel MOraes, seja bem-vindo(a) ao meu perfil👋
+## Olá, eu sou o Gabriel Moraes, seja bem-vindo(a) ao meu perfil👋
 
 <div align="center"> 
 <h3>  Ferramentas e Tecnologias :flags: </h3>
